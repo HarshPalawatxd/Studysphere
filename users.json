@@ -1,0 +1,32 @@
+{
+    "Abhinav": {
+        "password_hash": "e9c8557d9f88c3b2bae438d1fc34523d0bdc603b8f3fc2fc9dd3296f2101e5cc",
+        "name": "",
+        "branch": "",
+        "subjects": []
+    },
+    "shubh001": {
+        "password_hash": "04ad298c5ebe1e6c80efb3e6acfa5979d842acb4d143e920df925ab267ae99be",
+        "name": "",
+        "branch": "",
+        "subjects": []
+    },
+    "abhinavrana": {
+        "password_hash": "c6e09a4bec326fed32afa9672503b2599b7bc4c61c09f7626dbebdef3ca1cbc7",
+        "name": "",
+        "branch": "",
+        "subjects": []
+    },
+    "vikhyat": {
+        "password_hash": "c6e09a4bec326fed32afa9672503b2599b7bc4c61c09f7626dbebdef3ca1cbc7",
+        "name": "",
+        "branch": "",
+        "subjects": []
+    },
+    "sarthak": {
+        "password_hash": "40c494706007c42dcc74c73ac048469bcce66dba5b0d0ffb46c6c87d3e159b1e",
+        "name": "Sarthak",
+        "branch": "Btech AI/ML",
+        "subjects": []
+    }
+}
